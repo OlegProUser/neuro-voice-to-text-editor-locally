@@ -1,0 +1,7 @@
+faster-whisper
+sounddevice
+soundfile
+keyboard
+ollama
+numpy
+
